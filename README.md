@@ -1,2 +1,2 @@
 #Este es un espacio de pruebas para la documentación
-__Descripción de proyecto_
+_Descripción de proyecto_
