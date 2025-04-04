@@ -1,2 +1,2 @@
-print("Hello word")
-print("Esto es una prueba")
+x = 34
+print(x*5)
